@@ -2,7 +2,7 @@
 
 require "../../../bootstrap.php";
 
-$validate = $validate([
+$validate = validate([
 
     'name' => 's',
     'email' => 'e'
