@@ -1,0 +1,1 @@
+Aqui nessa pasta esta a pasta de funções onde vai conter todas as funções usadas no site e aplicações web.
