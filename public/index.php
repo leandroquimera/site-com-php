@@ -14,7 +14,15 @@
   <body>
     
     <div class="container">
-        <?php require_once load(); ?>
+        <?php
+
+        try {
+          require_once load();
+        } catch(Exception $erro){
+          echo $erro->getMessage();
+        }
+         
+        ?>
     </div>
       
     <!-- Optional JavaScript -->
