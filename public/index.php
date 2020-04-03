@@ -1,4 +1,4 @@
-<?php require_once"../app/functions/pages.php"; ?>
+<?php require_once"../bootstrap.php"; ?>
 
 <!doctype html>
 <html lang="pt-br">
