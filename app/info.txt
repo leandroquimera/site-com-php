@@ -1,1 +1,5 @@
 Aqui nessa pasta esta a pasta de funções onde vai conter todas as funções usadas no site e aplicações web.
+
+Tem ainda uma versão mais atualizada do mesmo usuário (versão 2.4.0):
+
+https://github.com/shiftkey/desktop/releases/download/release-2.4.0-linux1/GitHubDesktop-linux-2.4.0-linux1.deb
