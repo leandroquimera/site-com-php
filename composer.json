@@ -10,8 +10,8 @@
             "app/functions/flash.php",
             "app/functions/email.php"
         ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
     }
-
-
-
 }
