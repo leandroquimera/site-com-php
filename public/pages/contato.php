@@ -1,6 +1,8 @@
 <h1><strong>QUIMERA - Página contato</strong></h1>
 <h3>Administração e Soluções em Informática</h3>
 
+<?=get('message')?>
+
 <form action="pages/forms/tratacontato.php" method="POST" role="">
 
     <legend>Fale conosco!</legend>
