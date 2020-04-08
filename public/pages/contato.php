@@ -9,7 +9,7 @@
 
     <div class="form-group">
         <label for="">Nome:</label>
-        <input class="form-control" type="text" name="name" placeholder="Digite seu nome...">
+        <input class="form-control" type="text" name="name" placeholder="Digite seu nome..." autofocus>
     </div>
     
 
@@ -25,7 +25,7 @@
 
     <div class="form-group">
         <label for="">Mensagem:</label>
-        <textarea name="message" cols="30" rows="5" class="form-control">Digite sua mensagem...</textarea>
+        <textarea name="message" cols="30" rows="5" class="form-control"></textarea>
     </div>
 
     <button type="submit" class="btn btn-primary">Enviar...</button>
